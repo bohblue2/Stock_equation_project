@@ -1,6 +1,6 @@
 # Stock_equation_project
 ###블랙-숄즈-머튼 모형을 사용한 유러피안 콜 옵션의 몬테카를로 방식 가격 계산
-#######Author : 배 영 민 (컴퓨터전자시스템 공학과 17학번)
+######Author : 배 영 민 (컴퓨터전자시스템 공학과 17학번)
 Project's name : Stock equation project(주식시장과 관련된 수학적 모델 및 수식들을 Python으로 covert)
 Project's main content : 위험 중립 상태인 블랙-숄즈-머튼 모형에 따른 주가 모형에서 오일러 이산화를 통해 얻어진 수식을 정해진 파라미터 값을 대입하여, 몬테카를로 시뮬레이션 연산을 통해 가격 계산.
 TODO :
